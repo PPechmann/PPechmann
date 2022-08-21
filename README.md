@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PPechmann
-- 👀 I’m interested in web development
-- 🌱 I’m currently perfectioning css and javascript
+- 👀 I’m interested in fronten development
+- 🌱 I’m currently perfectioning css and javascript and learning about frameworks
 - 📫 Reach me at pechmann.patrick93@gmail.com
-
+- You can find my newest challenges on Frontendmentor: https://www.frontendmentor.io/profile/PPechmann
+- I am also having fun on codepen from time to time: https://codepen.io/ppechmann
