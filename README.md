@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PPechmann
+- 👋 Hi, I’m Patrick!
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently perfectioning css and javascript and learning about frameworks
 - 📫 Reach me at pechmann.patrick93@gmail.com
